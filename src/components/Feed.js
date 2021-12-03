@@ -6,7 +6,7 @@ const arrayComments3 = [{ name: "meowed", message: "Hahahah engraçado!" }, { na
 
 const posts = [
   { name: "meowed", someoneProfile: "respondeai", amountLike: "100.245", postTime: "1 DAY AGO", array: arrayComments1 },
-  { name: "barked", someoneProfile: "adorableanimals", amountLike: "99.159", postTime: "2 DAY AGO", array: arrayComments2 },
+  { name: "barked", someoneProfile: "adorableanimals2", amountLike: "99.159", postTime: "2 DAY AGO", array: arrayComments2 },
   { name: "respondeai", someoneProfile: "meowed", amountLike: "259.548", postTime: "1 DAY AGO", array: arrayComments3 },
 ];
 
